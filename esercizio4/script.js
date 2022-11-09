@@ -10,7 +10,7 @@ axios.get('https://jsonplaceholder.typicode.com/users')
         console.log("----------------------------");
     })
     .then(function () {
-        console.log("----------LALALALA----------");
+        console.log("-----------PROVA------------");
     })
     .then(function () {
         console.log("----------------------------");
