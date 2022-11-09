@@ -1,14 +1,22 @@
 [
     {
-        "titolo": "One-Punch Man"
+        "titolo": "One-Punch Man",
+        "studio": "Madhouse",
+        "episodi": "12"
     },
     {
-        "titolo": "Neon Genesis Evangelion"
+        "titolo": "Neon Genesis Evangelion",
+        "studio": "Gainax",
+        "episodi": "26"
     },
     {
-        "titolo": "Simoun"
+        "titolo": "Simoun",
+        "studio": "Studio Deen",
+        "episodi": "26"
     },
     {
-        "titolo": "Bakemonogatari"
+        "titolo": "Bakemonogatari",
+        "studio": "Shaft",
+        "episodi": "15"
     }
 ]
